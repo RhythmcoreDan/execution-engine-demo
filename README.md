@@ -82,20 +82,3 @@ risk controls and sizing
 If you'd like to integrate an execution engine into your own strategy or bot, I'm open to collaboration.
 
 
----
-
-Once you’ve got those three files + the README in place, repo 4 is done and your GitHub basically says:
-
-> “I build **full trading systems front-to-back**.”
-
-When you’re finished, you can just tell me something like:
-
-> “Execution repo is in.”
-
-And then, if you want, we can:
-
-- Pin this repo along with the others  
-- Write a one-liner that ties all 4 modules together for your profile  
-- Start using these links in messages to clients / posts you reply to
-::contentReference[oaicite:0]{index=0}
-
